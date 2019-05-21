@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="relation">
+        <item>Friend</item>
+        <item>Classmate</item>
+        <item>Colleague</item>
+    </array>
+</resources>
